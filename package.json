@@ -1,0 +1,25 @@
+{
+  "name": "jCarouselLite",
+  "title": "jCarouselLite",
+  "description": "original by gmarwaha",
+  "version": "v0.1",
+  "keywords": ["carousel"],
+  "homepage": "https://github.com/olivM/jCarouselLite",
+  "author": {
+    "name": "gmarwaha",
+    "url": "http://www.gmarwaha.com/jquery/jcarousellite/"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/olivM/jCarouselLite.git"
+  },
+  "bugs": {
+    "url": "https://github.com/olivM/jCarouselLite/issues"
+  }
+}
